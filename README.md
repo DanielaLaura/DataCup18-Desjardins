@@ -1,6 +1,6 @@
 # DataCup18-Desjardins
 ## Building a predictive model from consumer spending habits
-### With my model, I was able to make it to 28/100+
+### [With my model, I was able to make it to 28/100+]
 
 Amongst many other businesses, Desjardins has a prominent credit card offering. In fact, it is the 1st largest emitter of credit, debit and prepaid cards in Quebec and the 6th in Canada. This transpired in a business volume of over 35 billion dollars in 2017. With over a million credit card clients, the impact Desjardins has on the financial well-being of individuals, families and communities across the country is consequently immeasurable.
 
